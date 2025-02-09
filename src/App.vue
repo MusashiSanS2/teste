@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <template>
     <div>
       <h1>Olá, Vue 3!</h1>
@@ -18,7 +17,6 @@
     text-align: center;
   }
   </style>
-=======
 <template>
     <div>
       <h1>Olá, Vue 3!</h1>
@@ -38,5 +36,4 @@
     text-align: center;
   }
   </style>
->>>>>>> 75b45b0 (Corrigindo estrutura do projeto)
   
